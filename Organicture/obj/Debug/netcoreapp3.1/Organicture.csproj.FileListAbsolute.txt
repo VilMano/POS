@@ -1,0 +1,15 @@
+C:\Users\Manog\source\repos\Organicture\Organicture\bin\Debug\netcoreapp3.1\Organicture.exe
+C:\Users\Manog\source\repos\Organicture\Organicture\bin\Debug\netcoreapp3.1\Organicture.deps.json
+C:\Users\Manog\source\repos\Organicture\Organicture\bin\Debug\netcoreapp3.1\Organicture.runtimeconfig.json
+C:\Users\Manog\source\repos\Organicture\Organicture\bin\Debug\netcoreapp3.1\Organicture.runtimeconfig.dev.json
+C:\Users\Manog\source\repos\Organicture\Organicture\bin\Debug\netcoreapp3.1\Organicture.dll
+C:\Users\Manog\source\repos\Organicture\Organicture\bin\Debug\netcoreapp3.1\Organicture.pdb
+C:\Users\Manog\source\repos\Organicture\Organicture\obj\Debug\netcoreapp3.1\Organicture.csprojAssemblyReference.cache
+C:\Users\Manog\source\repos\Organicture\Organicture\obj\Debug\netcoreapp3.1\Organicture.Form1.resources
+C:\Users\Manog\source\repos\Organicture\Organicture\obj\Debug\netcoreapp3.1\Organicture.csproj.GenerateResource.cache
+C:\Users\Manog\source\repos\Organicture\Organicture\obj\Debug\netcoreapp3.1\Organicture.AssemblyInfoInputs.cache
+C:\Users\Manog\source\repos\Organicture\Organicture\obj\Debug\netcoreapp3.1\Organicture.AssemblyInfo.cs
+C:\Users\Manog\source\repos\Organicture\Organicture\obj\Debug\netcoreapp3.1\Organicture.csproj.CoreCompileInputs.cache
+C:\Users\Manog\source\repos\Organicture\Organicture\obj\Debug\netcoreapp3.1\Organicture.dll
+C:\Users\Manog\source\repos\Organicture\Organicture\obj\Debug\netcoreapp3.1\Organicture.pdb
+C:\Users\Manog\source\repos\Organicture\Organicture\obj\Debug\netcoreapp3.1\Organicture.genruntimeconfig.cache
